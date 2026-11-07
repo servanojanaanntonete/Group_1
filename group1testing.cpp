@@ -6,7 +6,8 @@ int main() {
     cout << "Hello, Engr. Julie!" << endl;
     cout << "Hello, Engr. Patrick!" << endl;
     cout << "Hello, Engr. Carl!" << endl;
-    cout << "Hello, Engr, Jana!" << endl;
-
+    cout << "Hello, Engr. Jana!" << endl;
+    cout << "HATAG KANEN BUSSENNNGG!!" << endl;
+    
         return 0;
 }
